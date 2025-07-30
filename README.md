@@ -1,2 +1,2 @@
-# Leo_Respositorio
-Mais um repositorio
+# Leo_Repositório
+Mais um repositório
