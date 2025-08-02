@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+.registro{
+    display: flex;
+    align-items: center;
+}
+
+.changelog{
+    margin-left: 33.33%;
+}
+p{
+    margin-left: 20px;
+}
+
+button{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(26, 23, 23);
+    color:white;
+}
